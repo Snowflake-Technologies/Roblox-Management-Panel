@@ -104,6 +104,4 @@ MIT License
 
 ---
 
-<p align="center">
-🚀 Manage. Automate. Dominate your Roblox ecosystem.
-</p>
+<p align="center">🚀 Manage. Automate. Dominate your Roblox ecosystem.</p>
